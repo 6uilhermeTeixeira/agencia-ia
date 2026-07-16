@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Agência IA">
+  <rect width="64" height="64" rx="12" fill="#07090f"/>
+  <path d="M14 42L26 16H38L50 42H40L37.5 36H26.5L24 42H14Z" fill="#2ee6a6"/>
+  <path d="M29 28H35L32 20L29 28Z" fill="#07090f"/>
+  <path d="M18 48H46" stroke="#66d9ff" stroke-width="4" stroke-linecap="round"/>
+</svg>
